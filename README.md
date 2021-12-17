@@ -40,7 +40,7 @@ The data provided in this project is a '.csv' file with no separation between tr
 
 ## License
 
-This project is licensed under the Apache License 2.0 - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the Apache License 2.0 - see the [LICENSE.md](https://github.com/ofir-frd/Prediction_of_Music_Genre/blob/main/LICENSE) file for details
 
 ## Acknowledgments
 
