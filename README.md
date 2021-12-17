@@ -17,8 +17,8 @@ Root Dir/
   -Prediction_of_music_genre.ipynb
   -music_genre.csv
   -README.md
-  -.gitignore
   -LICENSE.md
+  -.gitignore
 
 ```
 
