@@ -33,9 +33,9 @@ The data provided in this project is a '.csv' file with no separation between tr
 
 * [DataRepository](https://www.kaggle.com/vicsuperman/prediction-of-music-genre) - Link to the data repository.
 
-## Authors
+## Author
 
-* **authorname** - *Initial work* - [ofir-frd](https://github.com/ofir-frd)
+* [ofir-frd](https://github.com/ofir-frd)
 
 
 ## License
