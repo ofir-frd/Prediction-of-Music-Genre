@@ -1,4 +1,4 @@
-# Prediction_of_Music_Genre
+# Prediction of Music Genre
 
 In this Kaggle dataset, the song genre needs to be classified.
 
