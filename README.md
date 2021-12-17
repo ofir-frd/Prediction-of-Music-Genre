@@ -15,11 +15,11 @@ Directory description:
 ```
 
 Root Dir/
-  -Prediction_of_music_genre.ipynb
-  -music_genre.csv
-  -README.md
-  -LICENSE.md
-  -.gitignore
+  - Prediction_of_music_genre.ipynb
+  - music_genre.csv
+  - README.md
+  - LICENSE.md
+  - .gitignore
 
 ```
 
@@ -28,9 +28,9 @@ Features review:
 ```
 
 music_genre.csv/
-  -Labels
-    -music_genre
-  -Numerical
+  - Labels
+    - music_genre
+  -  Numerical
     - instance_id
     - popularity
     - acousticness
@@ -46,9 +46,9 @@ music_genre.csv/
   -Categorical
     - key
     - mode
-  -Other
-    - artist_name - test
-    - track_name - test
+  - Other
+    - artist_name - text
+    - track_name - text
     - obtained_date - irrelevant
 
 ```
