@@ -1,6 +1,7 @@
 # Prediction of Music Genre
 
-In this Kaggle dataset, the song genre needs to be classified.
+A Kaggle dataset.
+In this project a dataset of songs needs to be classified by their genre.
 
 
 ## About Data collection methodology
@@ -9,7 +10,7 @@ No early description is given on the feature collection methods, quality, or any
 
 ### Description of the data
 
-Here you can descibe how the data is organized in this whole dataset. How the data is stored in all the files. You also have to brief about the naming convention of the files in different directories. 
+Directory description:
 
 ```
 
@@ -21,6 +22,37 @@ Root Dir/
   -.gitignore
 
 ```
+
+Features review:
+
+```
+
+music_genre.csv/
+  -Labels
+    -music_genre
+  -Numerical
+    - instance_id
+    - popularity
+    - acousticness
+    - danceability
+    - duration_ms
+    - energy
+    - instrumentalness
+    - liveness
+    - loudness
+    - speechiness
+    - tempo
+    - valence
+  -Categorical
+    - key
+    - mode
+  -Other
+    - artist_name - test
+    - track_name - test
+    - obtained_date - irrelevant
+
+```
+
 
 ### And file formats
 
