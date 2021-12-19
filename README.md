@@ -55,7 +55,7 @@ music_genre.csv/
 ```
 
 
-### And file formats
+### File formats
 
 The data provided in this project is a '.csv' file with no separation between train and test datasets.
 ```
@@ -64,7 +64,7 @@ The data provided in this project is a '.csv' file with no separation between tr
 
 ## Online Repository link
 
-* [DataRepository](https://www.kaggle.com/vicsuperman/prediction-of-music-genre) - Link to the data repository.
+* [DataRepository](https://www.kaggle.com/vicsuperman/prediction-of-music-genre)
 
 ## Author
 
