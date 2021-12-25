@@ -17,6 +17,7 @@ Directory description:
 
 Root Dir/
   - Prediction_of_music_genre.ipynb
+  - classification_report_plot.ipynb
   - music_genre.csv
   - README.md
   - LICENSE.md
@@ -56,6 +57,8 @@ music_genre.csv/
 
 
 ### File formats
+
+Code writen in Python on Jupyter '.ipynb'.
 
 The data provided in this project is a '.csv' file with no separation between train and test datasets.
 ```
